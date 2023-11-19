@@ -1,5 +1,5 @@
 {
   "name": "TP-Link Router",
-  "homeassistant": "2023.9.3",
+  "homeassistant": "2023.1.0",
   "render_readme": true
 }
